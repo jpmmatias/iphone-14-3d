@@ -29,7 +29,7 @@ const Jumbotron = () => {
 			</ul>
 			<img
 				src={HoldingIPhone}
-				className='holding-iphone'
+				className='iphone-img'
 				alt='Holding IPhone 14 Pro'
 			/>
 		</section>
